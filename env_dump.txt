@@ -1,1 +1,0 @@
-{{ config.items() | join('\n') }}
